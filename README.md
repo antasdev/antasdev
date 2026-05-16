@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Antas 👋
 
-<!--
-**antasdev/antasdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- MERN Stack Developer
+- Passionate about Full Stack Development
+- Currently learning React, TypeScript, and DSA
 
-Here are some ideas to get you started:
+## Tech Stack
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- TypeScript
+- Tailwind CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+### ECommerce Platform
+Built a full-stack eCommerce application with:
+- User authentication
+- OTP verification
+- Admin dashboard
+- Product & category management
+- Search, filter & pagination
+- Session-based authentication
+
+## Currently Working On
+- Improving React skills
+- Learning TypeScript
+- Building real-world full stack projects
+
+## Contact
+- LinkedIn:www.linkedin.com/in/antas-antony
+- Email:antonyantas03@gmail.com
