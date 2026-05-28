@@ -1,20 +1,20 @@
-**# 👋 Hi, I'm Antas
+# 👋 Hi, I'm Antas
 
 ## 🚀 About Me
 
 🧑‍💻 MERN Stack Developer passionate about building scalable full-stack applications
 
-🚀 Focused on creating real-world web applications with clean UI and backend architecture
+🚀 Focused on creating real-world web applications with clean UI and efficient backend architecture
 
 🧠 Currently learning React, TypeScript, and Data Structures & Algorithms
 
-⚙️ Experienced in authentication systems, admin dashboards, and REST APIs
+⚙️ Experienced in authentication systems, admin dashboards, REST APIs, and session management
 
 📚 Exploring advanced React concepts and modern full-stack development
 
 🤝 Open to collaboration and real-world product development
 
-💬 Ask me about React, Node.js, MongoDB, Express.js, and authentication systems
+💬 Ask me about React, Node.js, MongoDB, Express.js, and full-stack development
 
 ⚡ Fun fact: I enjoy turning ideas into real-world applications
 
@@ -53,7 +53,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual%20studio%20code\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
@@ -86,4 +86,3 @@ Built a full-stack ECommerce application with:
 [LinkedIn](https://www.linkedin.com/in/antas-antony)
 
 📧 [antonyantas03@gmail.com](mailto:antonyantas03@gmail.com)
-
