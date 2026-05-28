@@ -1,52 +1,80 @@
-# About Me
+# 👋 Hi, I'm Antas
 
-👨‍💻 MERN Stack Developer passionate about building scalable full-stack applications
-🚀 Focused on creating real-world projects with modern web technologies
-🧠 Strong interest in problem-solving, backend architecture, and clean UI design
-⚙️ Experienced in building authentication systems, admin dashboards, and REST APIs
-📚 Currently learning React, TypeScript, and Data Structures & Algorithms
-💡 Enjoy transforming ideas into functional and user-friendly applications
-🤝 Open to collaboration and continuous learning in full-stack development
+## 🚀 About Me
+
+🧑‍💻 MERN Stack Developer passionate about building scalable full-stack applications
+🚀 Focused on creating real-world web applications with clean UI and backend architecture
+🧠 Currently learning React, TypeScript, and Data Structures & Algorithms
+⚙️ Experienced in authentication systems, admin dashboards, and REST APIs
+📚 Exploring advanced React concepts and modern full-stack development
+🤝 Open to collaboration and real-world product development
 💬 Ask me about React, Node.js, MongoDB, Express.js, and authentication systems
+⚡ Fun fact: I enjoy turning ideas into real-world applications
 
-## 💻 Tech Stack
+---
+
+# 💻 Tech Stack:
 
 ### 🚀 Frontend
 
-React.js • HTML5 • CSS3 • Tailwind CSS • JavaScript • TypeScript
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+---
 
 ### ⚙️ Backend
 
-Node.js • Express.js • REST APIs • Session Authentication • JWT
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+---
 
 ### 🗄️ Database
 
-MongoDB • Mongoose
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
 
 ### 🛠️ Tools & Platforms
 
-Git • GitHub • Postman • VS Code • Figma
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
-## 🌟 Featured Project
+---
 
-### 🛒 ECommerce Platform
+# 🌟 Featured Project
+
+## 🛒 ECommerce Platform
 
 Built a full-stack eCommerce application with:
 
-* User authentication & OTP verification
-* Admin dashboard
-* Product & category management
-* Search, filter & pagination
-* Session-based authentication
-* Responsive UI design
+* 🔐 User authentication & OTP verification
+* 🛠️ Admin dashboard
+* 📦 Product & category management
+* 🔎 Search, filter & pagination
+* 🧾 Session-based authentication
+* 📱 Responsive UI design
 
-## 📈 Currently Working On
+---
 
-* Improving React and TypeScript skills
-* Learning DSA and problem-solving
-* Building advanced full-stack projects
+# 📈 Currently Working On
 
-## 🌐 Connect With Me
+* Improving React & TypeScript skills
+* Learning DSA & problem-solving
+* Building advanced full-stack applications
 
-LinkedIn: [www.linkedin.com/in/antas-antony](http://www.linkedin.com/in/antas-antony)
-Email: [antonyantas03@gmail.com](mailto:antonyantas03@gmail.com)
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/antas-antony)
+
+📧 Email: [antonyantas03@gmail.com](mailto:antonyantas03@gmail.com)
