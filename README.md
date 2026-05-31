@@ -106,7 +106,7 @@ Passionate about building real-world applications, solving complex problems, and
 ## 🧩 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/antasdev?theme=dark&font=Karma&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/antas_antony?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
