@@ -143,36 +143,6 @@ A complete full-stack E-Commerce application built using Node.js, Express.js, Mo
 
 ---
 
-### ✅ React To-Do Application
-
-- Task Management
-- State Management using React
-- Local Storage Support
-- Responsive UI
-- CRUD Operations
-
----
-
-### 🎬 Netflix Clone
-
-- React
-- Firebase Authentication
-- Movie Listings
-- Watchlist Feature
-- Responsive Design
-
----
-
-### 🛍️ OLX Clone
-
-- Firebase Authentication
-- Product Listings
-- Post Ad Functionality
-- User Dashboard
-- Responsive UI
-
----
-
 ## 🏆 Achievements
 
 🏅 Built Multiple Full-Stack Projects
@@ -192,7 +162,6 @@ A complete full-stack E-Commerce application built using Node.js, Express.js, Mo
 - Advanced React Concepts
 - TypeScript
 - Data Structures & Algorithms
-- System Design Fundamentals
 - Building Scalable Full-Stack Applications
 - AI Integration in Web Applications
 
@@ -204,7 +173,6 @@ A complete full-stack E-Commerce application built using Node.js, Express.js, Mo
 - Master React & TypeScript
 - Solve 300+ DSA Problems
 - Build Production-Ready Applications
-- Explore Machine Learning & AI
 
 ---
 
