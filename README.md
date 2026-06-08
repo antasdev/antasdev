@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Antas
-![](https://komarev.com/ghpvc/?username=antasdev&label=Profile%20Views&color=0e75b6&style=flat)
-<h3 align="center">🚀 Full Stack Developer | MERN Stack | React Enthusiast | Problem Solver</h3>
+<h1 align="center">Hi 👋, I'm Antas</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Developer;React+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 <p align="center">
 Passionate about building real-world applications, solving complex problems, and continuously learning modern technologies.
 </p>
