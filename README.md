@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Antas
-
+![](https://komarev.com/ghpvc/?username=antasdev&label=Profile%20Views&color=0e75b6&style=flat)
 <h3 align="center">🚀 Full Stack Developer | MERN Stack | React Enthusiast | Problem Solver</h3>
 
 <p align="center">
