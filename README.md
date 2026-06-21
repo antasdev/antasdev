@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Antas</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Developer;React+Enthusiast;Always+Learning+New+Technologies" />
-</p>
-<p align="center">
-Passionate about building real-world applications, solving complex problems, and continuously learning modern technologies.
-</p>
+# Antas 👨‍💻
+
+### Full Stack Developer | MERN Stack
+
+> Turning ideas into web applications with JavaScript, React, Node.js, Express, and MongoDB.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;React+Developer;Backend+with+Node.js;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
