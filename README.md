@@ -12,80 +12,43 @@
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-🧑‍💻 Full Stack Developer specializing in MERN Stack Development
+```text
+💻 Building with React, Redux Toolkit, Node.js & Express.js
 
-🌱 Currently learning React, TypeScript, and Advanced Data Structures & Algorithms
+☁️ Deploying applications on AWS, Vercel & Render
 
-🧩 Regular LeetCode practitioner focused on improving problem-solving skills
+📚 Exploring TypeScript, System Design & AI
 
-⚙️ Experienced in Authentication Systems, Admin Dashboards, REST APIs, and Full-Stack Application Development
-
-🗄️ Worked with MongoDB and MySQL for database design and management
-
-🎨 Familiar with Figma for UI/UX design and responsive interface development
-
-🛠️ Comfortable with Git, GitHub, Postman, and modern development workflows
-
-📚 Passionate about learning new technologies and building scalable applications
-
-🤝 Open to collaboration, internships, and real-world product development
-
-💬 Ask me about JavaScript, React, Node.js, Express.js, MongoDB, MySQL, and DSA
-
-⚡ Fun Fact: I enjoy turning ideas into real-world applications
+🚀 Turning ideas into production-ready software
+```
 
 ---
 
-## 💻 Tech Stack
+## 🚀 Tech Arsenal
 
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma,aws,vercel,render&theme=dark&perline=9" />
+</p>
 
 ---
 
-### ⚙️ Backend
+### ⚡ Specializations
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
----
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 🎨 Design
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 🛠️ Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+- ⚛️ Frontend Development with **React & Redux Toolkit**
+- 🚀 Backend Development using **Node.js & Express**
+- 🔐 Authentication with **JWT**
+- 🗄️ Database Design using **MongoDB & MySQL**
+- ☁️ Deployment on **AWS, Vercel & Render**
+- 🛠️ API Testing with **Postman**
+- 🎨 UI Prototyping using **Figma**
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=antasdev&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=antasdev&theme=one_dark_pro"/>
 </p>
 
 ---
@@ -93,7 +56,7 @@
 ## 📊 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antasdev&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antasdev&theme=one_dark_pro"/>
 </p>
 
 ---
@@ -106,80 +69,51 @@
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
-
-A complete full-stack E-Commerce application built using Node.js, Express.js, MongoDB, EJS, and JavaScript.
-
-#### Features
-
-✅ User Authentication & Authorization
-
-✅ OTP Verification
-
-✅ Forgot Password Functionality
-
-✅ Admin Dashboard
-
-✅ Product Management
-
-✅ Category Management
-
-✅ Search, Filter & Pagination
-
-✅ Session-Based Authentication
-
-✅ Order Management
-
-✅ Offer Management
-
-✅ Responsive UI Design
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛒 **MERN E-Commerce** | Full-stack shopping platform with authentication, admin dashboard, order management & deployment. | Node.js • Express • MongoDB • EJS |
+| 🎬 **Netflix Clone** | Responsive movie browsing interface with modern React architecture. | React • JavaScript • CSS |
+| 👥 **User Management System** | Authentication, CRUD operations, role-based access control and REST APIs. | React • Redux • Node.js • MongoDB |
 
 ---
 
-## 🏆 Achievements
+## 💡 Impact
 
-🏅 Built Multiple Full-Stack Projects
+✓ Production-ready Full-Stack Applications
 
-🏅 Active GitHub Contributor
+✓ Secure Authentication Systems
 
-🏅 Consistent LeetCode Practice
+✓ Scalable REST APIs
 
-🏅 Strong Foundation in MERN Stack Development
+✓ Cloud Deployments
 
-🏅 Continuous Learner and Problem Solver
-
----
-
-## 🚀 Current Focus
-
-- Advanced React Concepts
-- TypeScript
-- Data Structures & Algorithms
-- Building Scalable Full-Stack Applications
-- AI Integration in Web Applications
+✓ Clean & Maintainable Code
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Currently Leveling Up
 
-- Become a Strong Full Stack Developer
-- Master React & TypeScript
-- Solve 300+ DSA Problems
-- Build Production-Ready Applications
-
+```text
+⚛️ Advanced React & Redux Toolkit
+🔷 TypeScript
+🧩 Data Structures & Algorithms
+☁️ AWS Cloud & Deployment
+🤖 AI Integration in Web Applications
+🚀 Open Source Contributions
+```
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/antas-antony">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+<div align="center">
 
-📧 Email: antonyantas03@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Antas%20Antony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antas-antony)
+
+[![Gmail](https://img.shields.io/badge/Gmail-antonyantas03%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonyantas03@gmail.com)
+
+</div>
 
 ---
 
