@@ -61,10 +61,19 @@
 
 ---
 
-## 🧩 LeetCode Stats
+## 🏆 LeetCode Journey
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/antas_antony?theme=dark&font=Karma&ext=contest"/>
+  <a href="https://leetcode.com/antas_antony/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/50.gif" 
+         alt="LeetCode 50 Days Badge" 
+         width="120"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/antas_antony?theme=dark&font=Karma&ext=contest" 
+       alt="LeetCode Stats"/>
 </p>
 
 ---
